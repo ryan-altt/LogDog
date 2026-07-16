@@ -1,7 +1,7 @@
 # LogDog - IP Log Analyzer
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![License](https://img.shields.io/badge/License-GPLv3-green.svg)
 
 An open-source system log analyzer for detecting and analyzing IP activities on Linux systems.
 
@@ -142,7 +142,7 @@ Contributions are welcome! Feel free to:
 
 ## 📧 Contact
 
-For any questions or suggestions, please open an issue on GitHub.
+For any questions or suggestions, please open an issue on GitHub, contact me directly or by ryansama.tech@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -285,7 +285,7 @@ Les contributions sont les bienvenues ! N'hésitez pas à:
 
 ## 📧 Contact
 
-Pour toute question ou suggestion, n'hésitez pas à ouvrir une issue sur GitHub.
+Pour toute question ou suggestion, n'hésitez pas à ouvrir une issue sur GitHub, me contacter directement ou par ryansama.tech@gmail.com
 
 ## 🙏 Remerciements
 
